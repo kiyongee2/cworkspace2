@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "C:\\cworkspace2\\Algorithm1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxRand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\findMaxRand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\fibonacci.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\fibonacci.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxArray2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\findMaxArray2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\findMaxArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\findMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\arrayCalc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\arrayCalc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\sumN.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\sumN.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\makeBar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\makeBar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\makeBar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\makeBar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B9C7B9C-82CC-4445-829B-D7ADC0C23C7C}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,102 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "findMaxRand.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxRand.c",
-              "RelativeDocumentMoniker": "Algorithm1\\findMaxRand.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxRand.c",
-              "RelativeToolTip": "Algorithm1\\findMaxRand.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Title": "fibonacci.c",
+              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\fibonacci.c",
+              "RelativeDocumentMoniker": "Algorithm1\\fibonacci.c",
+              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\fibonacci.c",
+              "RelativeToolTip": "Algorithm1\\fibonacci.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T07:28:04.142Z",
+              "WhenOpened": "2025-08-11T08:35:13.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "findMaxArray2.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxArray2.c",
-              "RelativeDocumentMoniker": "Algorithm1\\findMaxArray2.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxArray2.c",
-              "RelativeToolTip": "Algorithm1\\findMaxArray2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "factorial.c",
+              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\factorial.c",
+              "RelativeDocumentMoniker": "Algorithm1\\factorial.c",
+              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\factorial.c",
+              "RelativeToolTip": "Algorithm1\\factorial.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T07:06:07.367Z",
+              "WhenOpened": "2025-08-11T08:12:13.425Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "findMaxArray.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxArray.c",
-              "RelativeDocumentMoniker": "Algorithm1\\findMaxArray.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxArray.c",
-              "RelativeToolTip": "Algorithm1\\findMaxArray.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-08T08:29:29.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "findMax.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMax.c",
-              "RelativeDocumentMoniker": "Algorithm1\\findMax.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMax.c",
-              "RelativeToolTip": "Algorithm1\\findMax.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-08T08:15:20.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "makeBar2.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\makeBar2.c",
-              "RelativeDocumentMoniker": "Algorithm1\\makeBar2.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\makeBar2.c",
-              "RelativeToolTip": "Algorithm1\\makeBar2.c",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-08T07:45:09.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "makeBar.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\makeBar.c",
-              "RelativeDocumentMoniker": "Algorithm1\\makeBar.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\makeBar.c",
-              "RelativeToolTip": "Algorithm1\\makeBar.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-08T07:32:57.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "arrayCalc.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\arrayCalc.c",
-              "RelativeDocumentMoniker": "Algorithm1\\arrayCalc.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\arrayCalc.c",
-              "RelativeToolTip": "Algorithm1\\arrayCalc.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-08T07:26:07.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "sumN.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\sumN.c",
-              "RelativeDocumentMoniker": "Algorithm1\\sumN.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\sumN.c",
-              "RelativeToolTip": "Algorithm1\\sumN.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-08T07:10:56.164Z"
             }
           ]
         }
