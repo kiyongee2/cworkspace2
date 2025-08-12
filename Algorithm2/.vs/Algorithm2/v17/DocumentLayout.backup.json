@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworkspace2\\Algorithm2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4261E5ED-8121-4D06-84FE-1B2D6E26FF1C}|Algorithm2\\Algorithm2.vcxproj|C:\\cworkspace2\\Algorithm2\\Algorithm2\\bubbleSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4261E5ED-8121-4D06-84FE-1B2D6E26FF1C}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\bubbleSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1772,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bubbleSort.c",
+              "DocumentMoniker": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\bubbleSort.c",
+              "RelativeDocumentMoniker": "Algorithm2\\bubbleSort.c",
+              "ToolTip": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\bubbleSort.c*",
+              "RelativeToolTip": "Algorithm2\\bubbleSort.c*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-12T08:43:19.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
