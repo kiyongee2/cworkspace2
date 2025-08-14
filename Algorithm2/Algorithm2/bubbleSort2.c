@@ -10,7 +10,7 @@ void bubbleSorting(int a[], int n) {
 
 	//비교와 교환 반복
 	for (i = 0; i < n; i++) {
-		for (j = 0; j < n - 1; j++) { //열의 요소 비교
+		for (j = 0; j < n-1-i; j++) { //열의 요소 비교
 			if (a[j] > a[j + 1]) { //앞요소가 뒤요소보다 크면
 				temp = a[j];         //자리 바꿈 - 오름차순 정렬
 				a[j] = a[j + 1];

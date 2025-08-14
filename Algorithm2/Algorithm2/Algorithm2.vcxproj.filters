@@ -42,5 +42,23 @@
     <ClCompile Include="sequentialSearch1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ranking2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="insertSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="insertSort2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="seqSearch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="seqSearchAll.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="binarySearch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
